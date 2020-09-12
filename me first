@@ -1,6 +1,4 @@
-a = vinoth
-b = vinitha
-print(a+b)
-print('OK')
-
-
+a = 'vinoth'
+b = 'vinitha'
+c = a+b
+print(c+'aresoulmates')
